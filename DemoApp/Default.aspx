@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>This is a staging application</h1>
+            <h1>This is a Production application</h1>
         </div>
     </form>
 </body>
