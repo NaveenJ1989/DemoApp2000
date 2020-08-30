@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>This is a secondary application</h1>
+            <h1>This is a Primary application</h1>
         </div>
     </form>
 </body>
